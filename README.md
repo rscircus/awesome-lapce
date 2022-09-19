@@ -16,7 +16,7 @@
 
 - [Official Docs](https://docs.lapce.dev/get-started/setup) - Lapce currently supports Linux, Windows and macOS. Getting started with Lapce.
 
-## How to install plugins in Lapce
+## How to install plugins or themes in Lapce
 
 ![](https://user-images.githubusercontent.com/50457605/190851380-13dacc5d-b815-47ff-8ac2-2fd28e3db277.png)
 
