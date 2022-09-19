@@ -18,6 +18,7 @@
 
 ## LSP
 
+- [https://github.com/lapce/lapce-rust](https://github.com/lapce/lapce-rust) - Rust for Lapce: powered by Rust Analyzer
 - [https://github.com/nheuillet/lapce-go](https://github.com/nheuillet/lapce-go) -  A lapce plugin for the gopls lsp server
 - [https://github.com/lapce-community/lapce-cpp-clangd](https://github.com/lapce-community/lapce-cpp-clangd) -  C/C++ LSP plugin based on clangd for Lapce 
 - [https://github.com/VarLad/lapce-zig](https://github.com/VarLad/lapce-zig) -  Lapce plugin for the Zig language, powered by ZLS
