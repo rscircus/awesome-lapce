@@ -18,9 +18,10 @@
 
 ## LSP
 
-- [https://github.com/lapce/lapce-rust](https://github.com/lapce/lapce-rust) - Rust for Lapce: powered by Rust Analyzer
-- [https://github.com/nheuillet/lapce-go](https://github.com/nheuillet/lapce-go) -  A lapce plugin for the gopls lsp server
+- [https://github.com/lapce/lapce-rust](https://github.com/lapce/lapce-rust) - Rust for Lapce, powered by Rust Analyzer
+- [https://github.com/nheuillet/lapce-go](https://github.com/nheuillet/lapce-go) -  Plugin for Go / gopls lsp server
 - [https://github.com/lapce-community/lapce-cpp-clangd](https://github.com/lapce-community/lapce-cpp-clangd) -  C/C++ LSP plugin based on clangd for Lapce 
-- [https://github.com/VarLad/lapce-zig](https://github.com/VarLad/lapce-zig) -  Lapce plugin for the Zig language, powered by ZLS
-- [https://github.com/wingyplus/lapce-elixir](https://github.com/wingyplus/lapce-elixir) -  Elixir plugin for Lapce
-- [https://github.com/VarLad/lapce-julia](https://github.com/VarLad/lapce-julia) -  Plugin for Julialang for the Lapce editor 
+- [https://github.com/VarLad/lapce-zig](https://github.com/VarLad/lapce-zig) -  Plugin for the Zig language, powered by ZLS
+- [https://github.com/wingyplus/lapce-elixir](https://github.com/wingyplus/lapce-elixir) -  Plugin for Elixir
+- [https://github.com/VarLad/lapce-julia](https://github.com/VarLad/lapce-julia) -  Plugin for Julialang
+- [https://github.com/superlou/lapce-python](https://github.com/superlou/lapce-python) - Plugin for Python
