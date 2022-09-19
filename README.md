@@ -25,3 +25,17 @@
 - [https://github.com/wingyplus/lapce-elixir](https://github.com/wingyplus/lapce-elixir) -  Plugin for Elixir
 - [https://github.com/VarLad/lapce-julia](https://github.com/VarLad/lapce-julia) -  Plugin for Julialang
 - [https://github.com/superlou/lapce-python](https://github.com/superlou/lapce-python) - Plugin for Python
+- [https://github.com/syntacti/lapce-lua](https://github.com/syntacti/lapce-lua) - Plugin for Lua
+- [https://github.com/zcg/lapce-java](https://github.com/zcg/lapce-java) - Plugin for Java
+- [https://github.com/panekj/lapce-typescript](https://github.com/panekj/lapce-typescript) - Plugin for TypeScript
+
+## Themes
+
+- Adwaita - https://github.com/Kirottu/lapce-adwaita
+- Aleph - https://github.com/MinusGix/lapce-aleph
+- Amolapce - https://github.com/Ereshkigal01/Amolapce
+- Gruvbox - https://github.com/Zooce/lapce-gruvbox-ish
+- Monokai Pro - https://github.com/jath03/lapce-monokai-pro
+- Rosé Pine - https://github.com/ghishadow/rose-pine-lapce
+- Solarized - https://github.com/lapce-community/lapce-solarized
+- Tokyo-Night - https://github.com/ghishadow/tokyo-night-lapce
