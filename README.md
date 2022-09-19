@@ -22,16 +22,16 @@
 
 ## LSP
 
-- [https://github.com/lapce/lapce-rust](https://github.com/lapce/lapce-rust) - Rust for Lapce, powered by Rust Analyzer
-- [https://github.com/nheuillet/lapce-go](https://github.com/nheuillet/lapce-go) -  Plugin for Go / gopls lsp server
-- [https://github.com/lapce-community/lapce-cpp-clangd](https://github.com/lapce-community/lapce-cpp-clangd) -  C/C++ LSP plugin based on clangd for Lapce 
-- [https://github.com/VarLad/lapce-zig](https://github.com/VarLad/lapce-zig) -  Plugin for the Zig language, powered by ZLS
-- [https://github.com/wingyplus/lapce-elixir](https://github.com/wingyplus/lapce-elixir) -  Plugin for Elixir
-- [https://github.com/VarLad/lapce-julia](https://github.com/VarLad/lapce-julia) -  Plugin for Julialang
-- [https://github.com/superlou/lapce-python](https://github.com/superlou/lapce-python) - Plugin for Python
-- [https://github.com/syntacti/lapce-lua](https://github.com/syntacti/lapce-lua) - Plugin for Lua
-- [https://github.com/zcg/lapce-java](https://github.com/zcg/lapce-java) - Plugin for Java
-- [https://github.com/panekj/lapce-typescript](https://github.com/panekj/lapce-typescript) - Plugin for TypeScript
+- Rust - [https://github.com/lapce/lapce-rust](https://github.com/lapce/lapce-rust) - Rust for Lapce, powered by Rust Analyzer
+- Go - [https://github.com/nheuillet/lapce-go](https://github.com/nheuillet/lapce-go) -  Plugin for Go / gopls lsp server
+- C/C++ - [https://github.com/lapce-community/lapce-cpp-clangd](https://github.com/lapce-community/lapce-cpp-clangd) -  C/C++ LSP plugin based on clangd for Lapce 
+- Zig - [https://github.com/VarLad/lapce-zig](https://github.com/VarLad/lapce-zig) -  Plugin for the Zig language, powered by ZLS
+- Elixir[https://github.com/wingyplus/lapce-elixir](https://github.com/wingyplus/lapce-elixir) -  Plugin for Elixir
+- Julia [https://github.com/VarLad/lapce-julia](https://github.com/VarLad/lapce-julia) -  Plugin for Julialang
+- Python - [https://github.com/superlou/lapce-python](https://github.com/superlou/lapce-python) - Plugin for Python
+- Lua - [https://github.com/syntacti/lapce-lua](https://github.com/syntacti/lapce-lua) - Plugin for Lua
+- Java - [https://github.com/zcg/lapce-java](https://github.com/zcg/lapce-java) - Plugin for Java
+- TypeScript - [https://github.com/panekj/lapce-typescript](https://github.com/panekj/lapce-typescript) - Plugin for TypeScript
 
 ## Themes
 
