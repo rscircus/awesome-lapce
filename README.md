@@ -14,7 +14,7 @@
 
 ## Getting Started
 
-- [https://docs.lapce.dev/get-started/setup](Official Docs) - Lapce currently supports Linux, Windows and macOS. Simply download 
+- [Official Docs](https://docs.lapce.dev/get-started/setup) - Lapce currently supports Linux, Windows and macOS. Getting started with Lapce.
 
 ## LSP
 
