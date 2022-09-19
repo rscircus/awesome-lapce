@@ -26,8 +26,8 @@
 - Go - [https://github.com/nheuillet/lapce-go](https://github.com/nheuillet/lapce-go) -  Plugin for Go / gopls lsp server
 - C/C++ - [https://github.com/lapce-community/lapce-cpp-clangd](https://github.com/lapce-community/lapce-cpp-clangd) -  C/C++ LSP plugin based on clangd for Lapce 
 - Zig - [https://github.com/VarLad/lapce-zig](https://github.com/VarLad/lapce-zig) -  Plugin for the Zig language, powered by ZLS
-- Elixir[https://github.com/wingyplus/lapce-elixir](https://github.com/wingyplus/lapce-elixir) -  Plugin for Elixir
-- Julia [https://github.com/VarLad/lapce-julia](https://github.com/VarLad/lapce-julia) -  Plugin for Julialang
+- Elixir - [https://github.com/wingyplus/lapce-elixir](https://github.com/wingyplus/lapce-elixir) -  Plugin for Elixir
+- Julia - [https://github.com/VarLad/lapce-julia](https://github.com/VarLad/lapce-julia) -  Plugin for Julialang
 - Python - [https://github.com/superlou/lapce-python](https://github.com/superlou/lapce-python) - Plugin for Python
 - Lua - [https://github.com/syntacti/lapce-lua](https://github.com/syntacti/lapce-lua) - Plugin for Lua
 - Java - [https://github.com/zcg/lapce-java](https://github.com/zcg/lapce-java) - Plugin for Java
