@@ -12,6 +12,10 @@
 
 [Lapce](https://lapce.dev/) is a modern open source code editor with a native GUI and Rust powered performance.
 
+## Getting Started
+
+- [https://docs.lapce.dev/get-started/setup](Official Docs) - Lapce currently supports Linux, Windows and macOS. Simply download 
+
 ## LSP
 
 - [https://github.com/nheuillet/lapce-go](https://github.com/nheuillet/lapce-go) -  A lapce plugin for the gopls lsp server
